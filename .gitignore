@@ -1,0 +1,25 @@
+Node.js/Bun modules
+node_modules/
+bun.lockb
+bun-debug.log
+
+Diretórios do Vite
+dist/
+.vite/
+
+Arquivos de ambiente (credenciais)
+.env
+.env.local
+.env.development
+.env.production
+
+Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+Editor e sistema operacional (VSCode, macOS, Windows, Linux)
+.vscode/
+.DS_Store
+Thumbs.db

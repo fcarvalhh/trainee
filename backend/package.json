@@ -1,0 +1,21 @@
+{
+  "name": "amazon-scraper-backend",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "bun run --watch index.js",
+    "start": "bun run index.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.7",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "jsdom": "^24.0.0",
+    "puppeteer": "^24.4.0"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.17",
+    "@types/express": "^4.17.21",
+    "bun-types": "latest"
+  }
+}
