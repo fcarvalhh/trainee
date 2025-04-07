@@ -7,7 +7,7 @@ Um projeto de web scraping da Amazon que permite buscar produtos e exibir inform
 Este projeto consiste em uma aplicação web que permite buscar produtos na Amazon e exibir informações como título, avaliações, imagens e links dos produtos. O projeto está dividido em duas partes:
 
 - Backend: API REST com Bun + Express que realiza o scraping
-- Frontend: Interface web simples e responsiva com Vite
+- Frontend: Interface web simples e responsiva com React.js - Vite
 
 ## Requisitos
 
